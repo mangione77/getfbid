@@ -1,0 +1,22 @@
+{
+  "name": "getfbid-cli",
+  "version": "0.0.1",
+  "description": "A CLI tool for retrieving Facebook User's Id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pablo Mangione",
+  "license": "ISC",
+  "bin": {
+    "getfbid": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "progress": "^2.0.0",
+    "request": "^2.85.0"
+  }
+}

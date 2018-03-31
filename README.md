@@ -21,4 +21,7 @@ $ npm install -g getfbid
 
 ```bash
 $ getfbid
+$ FB Username: zuck
+$ >>> ID for user 'zuck':  4
 ```
+
